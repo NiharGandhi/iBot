@@ -1,6 +1,6 @@
-cmake
-dlib==19.24.0
+CMake
+dlib
 numpy
-opencv_python_headless==4.6.0.66
-Pillow==9.4.0
-streamlit==1.18.1
+opencv_python_headless
+Pillow
+streamlit
